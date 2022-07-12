@@ -1,5 +1,7 @@
 Este repositorio almacenará el código del curso de javascript creado por JUAN PABLO DE LA TORRE VALDEZ.
+
 Se espera que el repositorio sirva como un portafolio de javascript creado por medio del aprendizaje del curso.
+
 Este curso se encuentra en udemy y su descripción se puede ver a continuación.
 *************************************************************************************************************************************************************************
 Aprende el lenguaje más popular! JavaScript!
