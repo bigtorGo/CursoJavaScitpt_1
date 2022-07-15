@@ -11,7 +11,11 @@ var NombreProducto='el nombre de la variables sigue el estilo "pascal"'
 niveles de seguridad, evitandonos problemas con variables al momento de declararlas*/
 var nombrePadre= 'Gilberto';
 var nombrePadre='Juan';
-let nombreMadre= 'Isabel';
-let nombreMadre='Fernanda';
+nombrePadre='Andres';
+//let nombreMadre= 'Isabel';
+//nombreMadre='Fernanda';
+//let nombreMadre= 'Andrea';
 
-
+// Las constantes tienen dos carácteristicas principales, no se pueden reasignar y deben ser declaradas con un valor
+const nombreHermano='Gustavo';
+nombreHermano='Alonso';
